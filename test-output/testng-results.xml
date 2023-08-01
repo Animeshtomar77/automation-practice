@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-12T14:37:43 IST" name="Suite1" finished-at="2023-07-12T14:37:43 IST" duration-ms="38">
+    <groups>
+    </groups>
+    <test started-at="2023-07-12T14:37:43 IST" name="test1" finished-at="2023-07-12T14:37:43 IST" duration-ms="38">
+      <class name="TestNgDay1.Secondtest">
+        <test-method signature="test1()[pri:0, instance:TestNgDay1.Secondtest@645aa696]" started-at="2023-07-12T14:37:43 IST" name="test1" finished-at="2023-07-12T14:37:43 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test2()[pri:0, instance:TestNgDay1.Secondtest@645aa696]" started-at="2023-07-12T14:37:43 IST" name="test2" finished-at="2023-07-12T14:37:43 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+      </class> <!-- TestNgDay1.Secondtest -->
+      <class name="TestNgDay1.FirstTest">
+        <test-method signature="f()[pri:0, instance:TestNgDay1.FirstTest@28261e8e]" started-at="2023-07-12T14:37:43 IST" name="f" finished-at="2023-07-12T14:37:43 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- TestNgDay1.FirstTest -->
+    </test> <!-- test1 -->
+  </suite> <!-- Suite1 -->
+</testng-results>
